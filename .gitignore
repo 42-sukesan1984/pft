@@ -1,1 +1,6 @@
 src/usage_statistics_installed.txt
+history.csv
+test
+test.dSYM/
+test.libc
+test.mine
